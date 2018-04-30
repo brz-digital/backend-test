@@ -1,6 +1,6 @@
 # Teste para candidatos à vaga de backend
 
-> [![Logo BRZ](https://raw.githubusercontent.com/brz-digital/backend-test/develop/brz.png =160x120)](http://www.brz.digital)
+> <img src="https://raw.githubusercontent.com/brz-digital/backend-test/develop/brz.png" width="160" height="120" />
 >
 > Esse teste é público. Candidatos para o teste devem implementar a aplicação solicitada e criar uma issue com um link para um repositório com a solução do mesmo.
 

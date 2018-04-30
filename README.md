@@ -12,7 +12,7 @@ Criar uma aplicação web que implemente um CRUD de imóveis. Um imóvel é uma 
 
 > **Critérios de aceitação:**
 > - Todos os atributos são obrigatórios.
-> - ID não pode se repetir.
+> - Código não pode se repetir.
 > - Deve ser possível pesquisar os imóveis por qualquer atributo, exceto pelo id.
 > - Deve ser possível pesquisar os imóveis por faixa de preço.
 

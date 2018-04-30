@@ -63,3 +63,5 @@ Não existe cadastro de usuários e/ou autenticação.
 - Arquitetura que favorece a escalabilidade do sistema.
 - Ambientes de desenvolvimento em Docker.
 - Códigos escritos para humanos.
+
+Tudo que for desenvolvido não será utilizado comercialmente e a única intenção é de avaliar o conhecimento atual do interessado.

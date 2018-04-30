@@ -8,7 +8,7 @@
 Criar uma aplicação web que implemente um CRUD de imóveis. Um imóvel é uma casa, apartamento, terreno ou loja com as seguintes características:
 
 ### Imóvel:
-> **O sistema deve permitir o cadastro/edição/exclusão de imóveis com as propriedades (código, tipo, pretensão, título, detalhes, quartos e valor)**
+> **O sistema deve permitir o cadastro/edição/exclusão de imóveis com as propriedades (código, tipo, pretensão, título, detalhes, quartos e valor).**
 
 > **Critérios de aceitação:**
 > - Todos os atributos são obrigatórios.
@@ -17,8 +17,8 @@ Criar uma aplicação web que implemente um CRUD de imóveis. Um imóvel é uma 
 > - Deve ser possível pesquisar os imóveis por faixa de preço.
 
 ### Interessados:
-> **O sistema deve permitir o cadastro/edição/exclusão de interessados com as propriedades (nome, email)**
-> **Um interessado pode ter um ou mais Interesses com as propriedades (interessado, imóvel)**
+> **O sistema deve permitir o cadastro/edição/exclusão de interessados com as propriedades (nome, email).**
+> **Um interessado pode ter um ou mais Interesses com as propriedades (interessado, imóvel).**
 
 > **Critérios de aceitação:**
 > - Todos os atributos são obrigatórios.

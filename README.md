@@ -8,15 +8,7 @@
 Criar uma aplicação web que implemente um CRUD de imóveis. Um imóvel é uma casa, apartamento, terreno ou loja com as seguintes características:
 
 ### Imóvel:
-> **CRUD da entidade Imóvel:**
-> - Id
-> - Reference (Código do imóvel)
-> - Type (Casa, Apartamento, Terreno, Loja)
-> - Pretension (Venda, Aluguel)
-> - Title
-> - Details
-> - Price
-> - Bedrooms
+> **O sistema deve permitir o cadastro/edição/exclusão de imóveis com as propriedades (código, tipo, pretensão, título, detalhes, quartos e valor)**
 
 > **Critérios de aceitação:**
 > - Todos os atributos são obrigatórios.
@@ -25,20 +17,13 @@ Criar uma aplicação web que implemente um CRUD de imóveis. Um imóvel é uma 
 > - Deve ser possível pesquisar os imóveis por faixa de preço.
 
 ### Interessados:
-> **Permite incluir ou excluir interessados, sabendo que:**
-> - Id
-> - Cliente
-> - Email
-
-> **Um interessado pode ter um ou mais Interesses:**
-> - Id
-> - Cliente
-> - Imóvel
+> **O sistema deve permitir o cadastro/edição/exclusão de interessados com as propriedades (nome, email)**
+> **Um interessado pode ter um ou mais Interesses com as propriedades (interessado, imóvel)**
 
 > **Critérios de aceitação:**
 > - Todos os atributos são obrigatórios.
-> - ID e Email não podem se repetir.
-> - Deve ser possível pesquisar os interessados por cliente, e-mail ou imóvel.
+> - Email não pode se repetir.
+> - Deve ser possível pesquisar os interessados por nome, email ou imóvel.
 
 Não existe cadastro de usuários e/ou autenticação.
 
@@ -51,13 +36,12 @@ Não existe cadastro de usuários e/ou autenticação.
 
 ## Critérios de avaliação:
 - Modelagem do banco de dados e das migrations.
-- Organização do código: desacoplamento e legibilidade contam.
+- Organização do código: desacoplamento e legibilidade.
 - Flexibilidade do sistema para adição/remoção de funcionalidades.
 
 ## Como vamos avaliar:
 - Vamos rodar as migrations.
 - Vamos subir a aplicação e cadastrar/editar/deletar algumas entidades. Vamos listar os imóveis segundo diferentes combinações de filtros.
-- Vamos ler o código.
 
 ## Gostamos de:
 - Arquitetura que favorece a escalabilidade do sistema.

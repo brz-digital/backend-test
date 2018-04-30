@@ -2,7 +2,7 @@
 
 > <img src="https://raw.githubusercontent.com/brz-digital/backend-test/develop/brz.png" width="80" height="60" />
 >
-> Esse teste é público. Candidatos para o teste devem implementar a aplicação solicitada e criar uma issue com um link para um repositório com a solução do mesmo.
+> Esse teste é público. Candidatos devem implementar a aplicação solicitada e enviar o link do repositório para atendimento@brzdigital.com.br.
 
 ## Objetivo
 Criar uma aplicação web que implemente um CRUD de imóveis. Um imóvel é uma casa, apartamento, terreno ou loja com as seguintes características:

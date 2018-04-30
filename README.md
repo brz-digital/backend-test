@@ -31,7 +31,6 @@ Não existe cadastro de usuários e/ou autenticação.
 - A aplicação deve comportar-se como uma REST FULL Api.
 - Backend desenvolvido em Laravel 5.5+
 - Processo de desenvolvimento versionado via Git em algum repositório público.
-- Readme que explique como rodar o projeto.
 - A aplicação deve possuir um script que popula o banco inicialmente com imóveis, interessados e interesses fictícios para demonstração.
 
 ## Critérios de avaliação:

@@ -8,7 +8,7 @@
 Criar uma aplicação web que implemente um CRUD de imóveis. Um imóvel é uma casa, apartamento, terreno ou loja com as seguintes características:
 
 ### Imóvel:
-> ** CRUD da entidade Imóvel:**
+> **CRUD da entidade Imóvel:**
 > - Id
 > - Reference (Código do imóvel)
 > - Type (Casa, Apartamento, Terreno, Loja)

@@ -59,7 +59,7 @@ Não existe cadastro de usuários e/ou autenticação.
 - Vamos subir a aplicação e cadastrar/editar/deletar algumas entidades. Vamos listar os imóveis segundo diferentes combinações de filtros.
 - Vamos ler o código.
 
-## O que nós gostamos:
+## Gostamos de:
 - Arquitetura que favorece a escalabilidade do sistema.
-- Ambientes de desenvolvimento em Docker, utilizando compose.
+- Ambientes de desenvolvimento em Docker.
 - Códigos escritos para humanos.
